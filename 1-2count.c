@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//数数有几位数字
+//脢媒脢媒脫脨录赂脦禄脢媒脳脰
 int main() {
 //	int x;
 //	int n = 1;
